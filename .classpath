@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
-	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK">
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/lorenzo/android-ndk-r10e"/>
 		</attributes>
@@ -17,5 +17,6 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/lorenzo/android-ndk-r10e"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/home/lorenzo/Programmi/OpenCV Library - 2.4.10/bin/opencv library - 2.4.10.jar" sourcepath="/OpenCV Library - 2.4.10/src"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
